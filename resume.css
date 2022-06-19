@@ -1,0 +1,99 @@
+body{
+    font-family: 'Lato', sans-serif;
+    cursor: default;
+}
+
+
+
+.main-container{
+    background-color: black;
+    color: white;
+    margin: auto;
+   margin-top: 70px;
+     margin-bottom: 0;
+    padding: 30px;
+    padding-bottom: 0;
+    width: 55%;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px lightpink;
+    
+}
+
+.name , .surname{
+    font-size: 30px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    padding-right: 5px;
+}
+.name{
+    font-weight: bolder;
+    color: white;
+    
+}
+.surname{
+    font-weight: 3px;
+}
+.Email{
+    color: lightgray;
+    font-size: 12px;
+    padding: 2px;
+}
+.email{
+    color: white;
+}
+.seperator{
+    height: 18px;
+    font-weight: bold;
+    margin: 0px 10px;
+}
+.skill{
+    margin-top:30px ;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+.front{
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 14px;
+}
+.front-detail{
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+#experience {
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color:hotpink;
+}
+.python{
+    font-size: 10px;
+    padding-top: 11px;
+   
+}
+
+.company{
+    display: inline-block;
+    width: 200px;
+    
+    margin-top: 0;
+
+}
+.company-name{
+    font-size: 12px;
+    font-weight: bold;
+    
+
+}
+.course{
+  
+    display: inline-block;
+    width: 200px;
+    height: 125px;
+    margin-left: 150px;
+}
+.company-name, .course{
+    vertical-align: top;
+}
+
